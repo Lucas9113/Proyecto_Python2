@@ -1,4 +1,4 @@
-"Escript que convierte el archivo de texto en audio usando la libreria pyttsx3"
+"Escript that converts the text file to audio using the pyttsx3 library"
 
 import pyttsx3
 
